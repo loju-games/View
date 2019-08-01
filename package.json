@@ -5,7 +5,7 @@
   "description": "Tools for managing and creating views (UI screens), contains a controller that acts as a state machine for navigating between locations and overlays.",
   "unity": "2018.3",
   "dependencies": {
-      "com.lojugames.common" : "1.0.0"
+      "com.lojugames.common" : "https://github.com/loju-games/Common.git"
   },
  "keywords": [
     "Loju",
