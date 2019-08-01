@@ -1,5 +1,5 @@
 {
-  "name": "com.lojugames.views",
+  "name": "com.lojugames.view",
   "version": "1.0.0",
   "displayName": "Loju View",
   "description": "Tools for managing and creating views (UI screens), contains a controller that acts as a state machine for navigating between locations and overlays.",
