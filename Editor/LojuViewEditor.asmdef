@@ -1,0 +1,12 @@
+{
+    "name": "LojuViewEditor",
+    "references": [
+        "LojuView"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

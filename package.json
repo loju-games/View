@@ -1,0 +1,20 @@
+{
+  "name": "com.lojugames.views",
+  "version": "1.0.0",
+  "displayName": "Loju View",
+  "description": "Tools for managing and creating views (UI screens), contains a controller that acts as a state machine for navigating between locations and overlays.",
+  "unity": "2018.3",
+  "dependencies": {
+      "com.lojugames.common" : "1.0.0"
+  },
+ "keywords": [
+    "Loju",
+    "View",
+    "UI"
+  ],
+  "author": {
+    "name": "Loju",
+    "email": "hello@loju.co.uk",
+    "url": "https://loju.co.uk"
+  } 
+}
